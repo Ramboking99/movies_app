@@ -1,6 +1,13 @@
 # movies_buff
 
-A new Flutter project. Uses ListView for showing Movies fetching from the Sqlite Database. Lists are depecated in Flutter now. Also added Form fuctionality to add/delete update movie. Also along with that a page that contains Movie Poster, Movie Name, and Director Name. Edit: The video link provided in the Google Form has permission issues. The below link will be feasible to view the video demonstration https://drive.google.com/file/d/19nSDkknU2f-K2RhLkF66llaIW6Ew1V9-/view?usp=sharing . Also, I uploaded the Video file in Github using LFS for ease.
+A new Flutter project. Uses ListView for showing Movies fetching from the Sqlite Database. Lists are depecated in Flutter now. Also added Form fuctionality to add/delete update movie. Also along with that a page that contains Movie Poster, Movie Name, and Director Name. We can also view Watched Movies. The movie ListTile we click gets added to Watched Movies List.
+
+Edit: The video link provided in the Google Form has permission issues. The below link will be feasible to view the video demonstration. Sorry for the inconvenience caused. https://drive.google.com/file/d/19nSDkknU2f-K2RhLkF66llaIW6Ew1V9-/view?usp=sharing . 
+
+The app link is as below:
+https://drive.google.com/file/d/1RuL1Cjb7pJJi2jX-tVSqhkZ4ocbm0DFZ/view?usp=sharing
+
+Also, I uploaded the Video file in Github using LFS for ease.
 
 ## Getting Started
 
